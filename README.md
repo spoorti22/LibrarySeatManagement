@@ -21,7 +21,7 @@ The empty seats found from the previous module are then fed to a mongoDB databas
 3. Notification Module
 This part of the project would include sending a text message to the user after they have put in a request for the information. User will receive a link in the message from the Library seat finder system which will show the floor layout of the requested floor with availability for seats marked with green box.This is planned to be implemented using Twilio APIs to notify via SMS.
 
-# Output:
+# Output
 Notification with a link to the available seats on the floor requested to study on.
 
 
